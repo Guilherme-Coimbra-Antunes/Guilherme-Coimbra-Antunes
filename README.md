@@ -53,6 +53,6 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working on [DIRA] ((still working on it))<br><br>🌱 I’m currently learning API REST / BackEnd<br><br>⚡ Fun fact: 1st Dan in Karate Gōjū-ryū</h4>
+<h4 align="left">🔭 I’m currently working on auth-notes-backend<br><br>🌱 I’m currently learning API REST / BackEnd<br><br>⚡ Fun fact: 1st Dan in Karate Gōjū-ryū</h4>
 
 ###
